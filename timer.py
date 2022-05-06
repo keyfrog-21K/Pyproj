@@ -1,4 +1,6 @@
 import time
+import playsound
+ 
 
 timer_time = int(input('타이머를 설정할 시간 입력... '))
 timer_min = int(input('타이머를 설정할 분 입력... '))
